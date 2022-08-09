@@ -1,0 +1,24 @@
+# Fields must be separated by vertical line, label must not have such a vertical line.
+# Comments have this hash mark in first column. 
+# coordinates in degrees from true North. 
+# line towards zenith draws a single line strictly upward.
+# label is centered on line endpoint. 
+# Azimuth | Altitude | degrees-towards-zenith | azimuth shift | label
+
+# Edwin/Lyssa
+
+211 | -00 | +75 | -00 | Voskenslaan
+#211 | -00 | +85 | +30 | Mb
+031 | -00 | +75 | -00 | Flamingostraat
+#031 | -00 | +85 | +30 | Mb
+
+121 | -05 | +00 | +00 | tuin
+
+039 | -05 | +60 | +00 | tuin
+219 | -05 | +60 | +00 | tuin
+#219 | -05 | +60 | +00 | tuin
+
+# ISS
+283 | -15 | -00 | +00 | ISS-N
+257 | -15 | -00 | +00 | ISS-Z
+
