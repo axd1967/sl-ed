@@ -24,16 +24,19 @@ Mars
 
 - 10-29 tot 12-18 (tuin), tot 2023-02-04 (straat)
 
+
 avond
 +++++
 
 Mars
 
-- 2023-01-11 tot 03-17 (tuin), 05-12 (straat)
+- 22u: vanaf 12-07 tot 02-11
+- 02u: 2023-01-11 tot 03-17 (tuin), 05-12 (straat)
 
 Jupiter
 
-- 2023-01-25 tot 02-19 (straat)
+- 22u: 12-15 tot 01-11 (straat)
+- 02u: 2023-01-25 tot 02-19 (straat)
 
 Saturnus
 
